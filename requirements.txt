@@ -1,10 +1,8 @@
 # Python 3.10
 dvc
-dagshub
 graphviz
 matplotlib
 numpy
-mlflow
 PyYAML
 torch
 torchview
@@ -12,8 +10,5 @@ torchaudio
 torchvision
 torchsummary
 torchmetrics
-scikit-image
-opencv-python
 nltk
-python-dotenv
 ipykernel
