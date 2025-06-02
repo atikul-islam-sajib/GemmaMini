@@ -1,0 +1,13 @@
+artifacts:
+  files_path: "./artifacts/files"
+
+Gemma:
+  dimension: 512
+  num_vocabularies: 4096
+  query_heads: 8
+  num_layers: 16
+  kv_heads: 4
+  eps: 1e-4
+  sequence_length: 128
+  base: 10000
+  output_dimension: 14336
